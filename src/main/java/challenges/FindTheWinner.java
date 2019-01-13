@@ -11,7 +11,7 @@ public class FindTheWinner {
 
     public static String winner(List<Integer> andrea, List<Integer> maria, String s) {
         // Write your code here
-
+        return s;
     }
 
     @Test
